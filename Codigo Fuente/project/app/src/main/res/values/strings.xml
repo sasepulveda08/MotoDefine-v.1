@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Moto Define</string>
+    <string name="pr1">¿Qué bueno eres al momento de manejar moto?</string>
+    <string name="r1p1">Excelente</string>
+    <string name="r2p1">Bueno</string>
+    <string name="r3p1">Regular</string>
+    <string name="r4p1">Principiante</string>
+    <string name="p2">¿El motivo por el cual quieres comprar una Moto?</string>
+    <string name="r1p2">Viajes</string>
+    <string name="r2p2">Transporte</string>
+    <string name="r3p2">Deporte Extremo</string>
+    <string name="r4p2">Competicion</string>
+    <string name="p3">¿Selecciona el rango de altura al cual perteneces?</string>
+    <string name="r1p3">Menos de 1.50m  </string>
+    <string name="r2p3">1.50m a 1.65m</string>
+    <string name="r3p3">1.65m a 1.85m</string>
+    <string name="r4p3">Mas de 1.85m </string>
+    <string name="p4">¿¿Seleccione la opción que más le llame la atención?</string>
+    <string name="r1p4">Aventura</string>
+    <string name="r2p4">Ciudad</string>
+    <string name="r3p4">Fines de semana</string>
+    <string name="r4p4">Velocidad </string>
+    <string name="title_activity_selection">Tu Selecciòn</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="infodeportiva">Las motos deportivas van equipadas en su mayoría de un carenado (carrocería) que mejora su aerodinámica con el fin de alcanzar altas velocidades, habitualmente por encima de los 250km/h o incluso más de 300km/h en los modelos más exóticos.
+
+La posición de conducción de una moto deportiva es usualmente muy agresiva, en el sentido de que obliga al cuerpo a estar muy adelantado.
+
+De esta manera se gana estabilidad en la dirección y se facilita la aerodinámica. Estas motos son las que tienen mejor relación entre peso y potencia, además heredaron de las motos de carrera su tecnología de punta ofreciendo una aceleración sólo comparable con la de los fórmula uno. Es decir que en estas motos lo que prima por encima de todo son las prestaciones deportivas, sacrificando las cualidades turísticas.  </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details">CARACTERÍSTICAS:</string>
+    <string name="infonaker">En este segmento incluimos las motos que tienen diseño sin carenado (carrocería) y que son exclusivas de ciudad, aunque también nos sirven por su potencia disfrutar de la ruta.
+
+La Moto Naked (desnuda), obtiene este calificativo por la ausencia del carenado, dando la impresión de llevar al descubierto gran parte de la mecánica de la misma. Son motos de Alto Cilindraje (300cc o más) y suelen tener mucha potencia. Son ideales para sentir la mecánica de la moto desde todas las perspectivas.
+
+También la mayoría de marcas como Yamaha, Suzuki, Kawasaki, BMW, Aprilia, KTM, Triumph, Bimota, etc., cuentan con este tipo de motos entre sus catálogos.</string>
+
+    <string name="infoturing">Una Moto de touring (turismo) es ideal para realizar largos viajes. Tienen una posición de conducción relajada, con el cuerpo más o menos derecho y por lo general vienen equipadas con maletas y parabrisas alto. Ejemplos: BMW R1150RT, Honda Goldwing, etc.
+Sport-Turismo, que como su nombre indica están entre las motos turísticas y las deportivas, uniendo cualidades de ambos estilos. Todas incluyen Carenados. Ejemplos: Yamaha FJR, Yamaha FZ1 S, Yamaha FZ6 S, Yamaha TDM, Kawasaki ER6F, Suzuki V-Strom, etc.
+Motos "Trail", que son motos que están adaptadas para transitar tanto en ruta como fuera de ella. Son una mezcla entre las motos de carretera y las motos de campo y su máxima virtud es su versatilidad. Ejemplos: BMW R1200GS, Suzuki Freewind, Honda Transalp, Kawasaki Versys, Varadero, Africa Twin, Dominator, etc.</string>
+
+    <string name="infochopper">Una Chopper es creada removiendo o cortando (chopping) partes innecesarias de la moto. Se basa en la poca utilidad de elementos como los cristales, guardabarros delanteros, grandes luces, topes direccionales, parachoques, grandes asientos, etc. Cortándolos, la moto luce lisa, brillante y ligera.
+
+Al principio los motociclistas alargaron las horquillas para que el frente estuviera más alejado de la moto y elevaron el manillar que fue llamado cuelga mono (ape hanger). Más tarde el neumático delantero se hizo más fino, el trasero más ancho y hasta algunos moteros eliminaron la batería y usaron un magneto para reducir peso. El tanque de gasolina, luces delanteras, y direccionales se hicieron más pequeños. Todo lo considerado innecesario fue quitado, esto hizo un estilo de moto único y adaptado a cada piloto puesto que cada uno decidía justo lo que necesitaba hacer para crear su moto deseada. </string>
+
+    <string name="infovespa">Un scooter es una moto o motocicleta con un cuadro abierto en la que el conductor se sienta sin necesidad de montar a "caballo" sobre el motor. La mayoría de los scooters modernos tienen ruedas más pequeñas que las motos, de entre 8 y 14 pulgadas (20-35 cm) de diámetro.
+
+El motor del scooter suele hallarse bajo el asiento con una transmisión variable continua transfiriendo la potencia a la rueda trasera.
+La mayoría de los scooters antiguos y algunos modelos retro recientes tienen una transmisión manual con la palanca de cambio y el embrague en el manillar izquierdo.
+
+En contraste con la mayoría de las motos, los scooters suelen tener carenado (carrocería), incluyendo una protección frontal para las piernas y un cuerpo que oculta toda o la mayor parte de la mecánica. El diseño clásico del scooter presenta un suelo plano para los pies del conductor y a menudo incluye algún hueco de almacenaje integrado, ya sea bajo el asiendo, en la protección frontal para las piernas o en ambos sitios.
+</string>
+
+
+</resources>

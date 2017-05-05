@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_motorcycle_black_48dp"
+            android:title="Deportiva" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_motorcycle_black_48dp"
+            android:title="Naked" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_motorcycle_black_48dp"
+            android:title="Sport-Turismo" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_motorcycle_black_48dp"
+            android:title="Choppers" />
+        <item
+            android:id="@+id/scooters"
+            android:icon="@drawable/ic_motorcycle_black_48dp"
+            android:title="Scooters" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Creditos" />
+
+        </menu>
+    </item>
+
+</menu>

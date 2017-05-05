@@ -1,0 +1,88 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.santiago.project.creditsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+            <LinearLayout
+                android:id="@+id/linearLayoutCardContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/splahs1"
+                android:id="@+id/imageButton"
+                android:elevation="0dp" />
+
+            <TextView
+                android:text="Moto Define"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:textSize="32dp"
+                android:textColor="@color/colorPrimary"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:id="@+id/textView" />
+
+                <TextView
+                    android:text="Developers:"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:id="@+id/textView2" />
+
+                <TextView
+                    android:text="Santiago Andres Sepulveda"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:id="@+id/textView3" />
+
+                <TextView
+                    android:text="DESTROY-APP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:textAlignment="center"
+                    android:fontFamily="cursive"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="40dp"
+                    android:gravity="center"
+                    android:id="@+id/textView8" />
+
+                <TextView
+                    android:text="º copyright - 2016 º"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:fontFamily="cursive"
+                    android:textColor="@color/colorPrimary"
+                    android:gravity="center"
+                    android:id="@+id/textView10" />
+
+            </LinearLayout>
+    </ScrollView>
+
+
+</FrameLayout>
